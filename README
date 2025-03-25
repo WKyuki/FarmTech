@@ -1,4 +1,4 @@
-Para executar os arquivos em R conferir se o diretório de execução está correto, utilizando a função getwd()
+Para executar os arquivos em R conferir se o diretório de execução está correto, utilizando a função getwd(). Caso esteja o diretório de execução esteja incorreto, corrigir utilizando a função setwd()
 
 Culturas suportadas:
     - Soja
