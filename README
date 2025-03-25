@@ -1,3 +1,5 @@
+Para executar os arquivos em R conferir se o diretório de execução está correto, utilizando a função getwd()
+
 Culturas suportadas:
     - Soja
     - Milho
